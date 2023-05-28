@@ -1,0 +1,62 @@
+.nav-link{
+    color: black;
+    
+}
+
+.nav-link:hover{
+    color: rgb(82, 82, 82);
+    
+}
+
+.navbar{
+        background-color: rgb(238, 238, 238);
+}
+
+
+
+.cont-tital{
+    margin-bottom: 5px ;
+    /*padding-top: 15px;*/
+    font-weight: bold;
+}
+
+.cont-info{
+    padding-top: 1px;
+}
+
+.sub-heading{
+    margin-bottom: 15px;
+    display: block;
+    font-size: 10px;
+    color: #999999;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+.main-heading{
+    font-size: 18px;
+    margin-bottom: 4em;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    
+}
+
+.text-details{
+    color: rgb(0 0 0 / 70%);
+    line-height: 1.8;
+    font-weight: 400;
+    font-size: 16px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0 0 10px
+}
+
+.skill-logo:hover{ 
+    text-shadow: 20px 20px 50px 2px black;
+    cursor: pointer;
+    box-shadow: 5px ;
+}
